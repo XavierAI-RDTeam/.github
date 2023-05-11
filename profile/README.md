@@ -9,23 +9,23 @@ Our when interacting with our repositories, please follow the below mentioned gu
 1. We use multiple branches for development and following are the important ones.
   - "main" hosts the latest stable and tested version of the code base that supports latest underlying frameworks such as ROS2 or NodeJS
   - "develop" hosts the experimental code that are under development or testing.
-  - "<distro name>" hosts the stable code base tested for the respective underlying framework ("melodic" for ROS framework based repositories).
+  - "distro name" hosts the stable code base tested for the respective underlying framework ("melodic" for ROS framework based repositories).
   
 2. Use the following Pull Request Message when creating a pull request for merging a branch
   
-  ### What is the feature/bug?
+  - What is the feature/bug?
   (Describe what the feature/bug is)
   
-  ### What is the solution?
+  - What is the solution?
   (Describe at a high level how the feature was implemented)
   
-  ### What areas of the site does it impact?
+  - What areas of the site does it impact?
   (Describe what parts of the site are impacted and*if*code touched other areas)
   
-  ### How to reproduce the bug or test the new feature?
+  - How to reproduce the bug or test the new feature?
   (Describe the prerequisites and the steps to test)
   
-  ## Other Notes
+  - Other Notes
   (Add any additional information that would be useful to the developer or QA tester)
   
 3. Usually development occur in the following order
