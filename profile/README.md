@@ -10,7 +10,7 @@ When interacting with our repositories, please follow the below mentioned guidel
 
   - "main" hosts the latest stable and tested version of the code base that supports latest underlying frameworks such as ROS2 or NodeJS
   - "develop" hosts the experimental code that are under development or testing.
-  - "distro name" hosts the stable code base tested for the respective underlying framework ("melodic" for ROS framework based repositories).
+  - "distro name" hosts the stable code base tested for the respective underlying framework (Eg: "melodic" for ROS).
   
 2. Use the following Pull Request Message when creating a pull request for merging a branch
   
@@ -21,7 +21,7 @@ When interacting with our repositories, please follow the below mentioned guidel
     What is the solution?
     (Describe at a high level how the feature was implemented)
 
-    What areas of the site does it impact?
+    What areas of the system does it impact?
     (Describe what parts of the site are impacted and*if*code touched other areas)
 
     How to reproduce the bug or test the new feature?
