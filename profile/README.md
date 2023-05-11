@@ -37,5 +37,5 @@ When interacting with our repositories, please follow the below mentioned guidel
   - Doing the development and testing on the feature branch and using meaning full commit messages.
   - Creating a pull request to merge the feature/fix branch to "develop" branch.
   - Doing further testing on the "develop" branch.
-  - Creating a pull request to merge "develop" branch with "main branch".
-  - Creating a release on the main branch.
+  - Creating a pull request to merge "develop" branch with "main" branch.
+  - Creating a release from the "main" branch.
