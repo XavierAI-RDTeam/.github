@@ -13,20 +13,22 @@ Our when interacting with our repositories, please follow the below mentioned gu
   
 2. Use the following Pull Request Message when creating a pull request for merging a branch
   
-  - What is the feature/bug?
-  (Describe what the feature/bug is)
-  
-  - What is the solution?
-  (Describe at a high level how the feature was implemented)
-  
-  - What areas of the site does it impact?
-  (Describe what parts of the site are impacted and*if*code touched other areas)
-  
-  - How to reproduce the bug or test the new feature?
-  (Describe the prerequisites and the steps to test)
-  
-  - Other Notes
-  (Add any additional information that would be useful to the developer or QA tester)
+  ```
+    What is the feature/bug?
+    (Describe what the feature/bug is)
+
+    What is the solution?
+    (Describe at a high level how the feature was implemented)
+
+    What areas of the site does it impact?
+    (Describe what parts of the site are impacted and*if*code touched other areas)
+
+    How to reproduce the bug or test the new feature?
+    (Describe the prerequisites and the steps to test)
+
+    Other Notes
+    (Add any additional information that would be useful to the developer or QA tester)
+  ```
   
 3. Usually development occur in the following order
   - Creating a feature branch with name "[feature] short name" tag or "[fix] short name" tag .
